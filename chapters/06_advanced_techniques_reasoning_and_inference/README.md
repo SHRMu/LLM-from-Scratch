@@ -4,10 +4,11 @@ Understanding the architecture of a Large Language Model is only the beginning. 
 
 This chapter is divided into the following articles:
 
-1.  [Prompting for Reasoning: The Power of Chain-of-Thought](./01_prompting_for_reasoning.md)
-2.  [Decoding Strategies: How LLMs Choose Their Words](./02_decoding_strategies.md)
-3.  [Inference Optimization](./03_inference_optimization.md)
-4.  [Hands-on Guide: Applying Decoding Strategies](./04_hands_on_guide_decoding.md)
+1.  [Introduction to Reinforcement Learning](./00_introduction_to_reinforcement_learning.md)
+2.  [Prompting for Reasoning: The Power of Chain-of-Thought](./01_prompting_for_reasoning.md)
+3.  [Decoding Strategies: How LLMs Choose Their Words](./02_decoding_strategies.md)
+4.  [Inference Optimization](./03_inference_optimization.md)
+5.  [Hands-on Guide: Applying Decoding Strategies](./04_hands_on_guide_decoding.md)
 
 ---
 ### Related Ideas & Notes
