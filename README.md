@@ -37,7 +37,6 @@ Let's begin this exciting journey together!
     -   [Preparing Your Dataset](./chapters/03_the_art_of_fine_tuning/02_preparing_your_dataset.md)
     -   [Common Fine-Tuning Techniques](./chapters/03_the_art_of_fine_tuning/03_common_fine_tuning_techniques.md)
     -   [A Practical Example](./chapters/03_the_art_of_fine_tuning/04_a_practical_example.md)
-    -   [Reinforcement Learning from Human Feedback (RLHF)](./chapters/03_the_art_of_fine_tuning/05_reinforcement_learning_from_human_feedback.md)
 -   **Chapter 4: [Retrieval-Augmented Generation (RAG)](./chapters/04_retrieval_augmented_generation/README.md)**
     -   [What is RAG?](./chapters/04_retrieval_augmented_generation/01_what_is_rag.md)
     -   [Building a Knowledge Base](./chapters/04_retrieval_augmented_generation/02_building_a_knowledge_base.md)
@@ -53,6 +52,7 @@ Let's begin this exciting journey together!
 ### Part 3: Advanced Topics & The Ecosystem
 
 -   **Chapter 6: [Advanced Techniques: Reasoning and Efficient Inference](./chapters/06_advanced_techniques_reasoning_and_inference/README.md)**
+    -   [Introduction to Reinforcement Learning](./chapters/06_advanced_techniques_reasoning_and_inference/00_introduction_to_reinforcement_learning.md)
     -   [Prompting for Reasoning: The Power of Chain-of-Thought](./chapters/06_advanced_techniques_reasoning_and_inference/01_prompting_for_reasoning.md)
     -   [Decoding Strategies: How LLMs Choose Their Words](./chapters/06_advanced_techniques_reasoning_and_inference/02_decoding_strategies.md)
     -   [Inference Optimization](./chapters/06_advanced_techniques_reasoning_and_inference/03_inference_optimization.md)
