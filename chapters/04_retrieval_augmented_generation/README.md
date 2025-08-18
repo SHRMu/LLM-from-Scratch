@@ -9,6 +9,7 @@ This chapter is divided into the following articles:
 3.  [The Retrieval Process](./03_the_retrieval_process.md)
 4.  [The Generation Process](./04_the_generation_process.md)
 5.  [A Practical RAG Example](./05_a_practical_rag_example.md)
+6.  [Advanced RAG Techniques](./06_advanced_rag_techniques.md)
 
 ---
 ### Related Ideas & Notes
