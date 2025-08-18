@@ -72,3 +72,7 @@ Let's begin this exciting journey together!
     -   [Introduction to Multimodality](./chapters/09_the_frontier_multimodality_and_new_architectures/01_introduction_to_multimodality.md)
     -   [Beyond the Transformer?](./chapters/09_the_frontier_multimodality_and_new_architectures/02_beyond_the_transformer.md)
     -   [Hands-on Guide: Using a Multimodal Model](./chapters/09_the_frontier_multimodality_and_new_architectures/03_hands_on_guide_multimodal.md)
+
+### Part 4: Appendices
+
+-   **Chapter 10: [Glossary](./chapters/10_glossary/README.md)**

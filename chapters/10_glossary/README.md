@@ -12,7 +12,8 @@ This chapter provides a comprehensive glossary of key terms and concepts related
 
 ## C
 
--   **Context Window:** The maximum number of tokens a model can consider at once when processing a sequence.
+- **Chroma DB:** An open-source vector database designed for storing, managing, and retrieving vector embeddings, which are numerical representations of data like text, images, and audio.  
+- **Context Window:** The maximum number of tokens a model can consider at once when processing a sequence.
 
 ## D
 
@@ -44,6 +45,7 @@ This chapter provides a comprehensive glossary of key terms and concepts related
 ## L
 
 -   **LangChain:** A framework for developing applications powered by language models.
+- LangChain Hub: TODO
 -   **LLM (Large Language Model):** A type of neural network with a large number of parameters that is trained on a massive amount of text data.
 -   **LlamaIndex:** A data framework for LLM applications to ingest, structure, and access private or domain-specific data.
 
